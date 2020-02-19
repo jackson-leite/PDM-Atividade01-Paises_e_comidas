@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Atividade 01</string>
+    <string name="paises">" χώρες"</string>
+    <string name="nome_pais">" ελλάδα"</string>
+    <string name="descricao_nome_pais">" ελλάδα"</string>
+    <string name="descricao_prato_feijoada">" μουσακά"</string>
+    <string name="nome_comida">" μουσακά"</string>
+</resources>

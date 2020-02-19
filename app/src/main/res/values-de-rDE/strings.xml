@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Atividade 01</string>
+    <string name="paises">Länder</string>
+    <string name="nome_pais">" Deutschland"</string>
+    <string name="descricao_nome_pais">" Deutschland"</string>
+    <string name="descricao_prato_feijoada">" Eisbein"</string>
+    <string name="nome_comida">" Eisbein"</string>
+</resources>

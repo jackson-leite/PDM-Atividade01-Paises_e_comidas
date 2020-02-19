@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Atividade 01</string>
+    <string name="paises">الدول</string>
+    <string name="nome_pais">"المملكة العربية السعودية "</string>
+    <string name="descricao_nome_pais">"المملكة العربية السعودية "</string>
+    <string name="descricao_prato_feijoada">الفلافل</string>
+    <string name="nome_comida">الفلافل</string>
+</resources>
