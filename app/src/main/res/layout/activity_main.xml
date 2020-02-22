@@ -2,7 +2,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/BrasilLinearLayout"
+    android:id="@+id/PaisesLinearLayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
@@ -37,12 +37,12 @@
         app:srcCompat="@drawable/bandeira" />
 
     <ImageView
-        android:id="@+id/FeijoadaimageView"
+        android:id="@+id/ComidaImageView"
         android:layout_width="@dimen/fotos_imagewidth"
         android:layout_height="0dp"
         android:layout_gravity="center"
         android:layout_weight="2"
-        android:contentDescription="@string/descricao_prato_feijoada"
+        android:contentDescription="@string/descricao_prato"
         app:srcCompat="@drawable/comida" />
 
     <TextView

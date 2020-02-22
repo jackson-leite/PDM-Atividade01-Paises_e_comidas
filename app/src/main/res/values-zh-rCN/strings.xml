@@ -4,6 +4,6 @@
     <string name="paises">國家</string>
     <string name="nome_pais">中國</string>
     <string name="descricao_nome_pais">中國</string>
-    <string name="descricao_prato_feijoada">牛肉麵</string>
+    <string name="descricao_prato">牛肉麵</string>
     <string name="nome_comida">牛肉麵</string>
 </resources>

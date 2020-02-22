@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Atividade 01</string>
     <string name="descricao_nome_pais">Italia</string>
-    <string name="descricao_prato_feijoada">Fettuccine</string>
+    <string name="descricao_prato">Fettuccine</string>
     <string name="nome_comida">Fettuccine</string>
     <string name="nome_pais">Italia</string>
     <string name="paises">" Paesi"</string>

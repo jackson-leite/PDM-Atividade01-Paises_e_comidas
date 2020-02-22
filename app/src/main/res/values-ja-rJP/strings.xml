@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Atividade 01</string>
     <string name="paises">" 国"</string>
-    <string name="descricao_prato_feijoada">寿司</string>
+    <string name="descricao_prato">寿司</string>
     <string name="nome_comida">寿司</string>
     <string name="descricao_nome_pais">" 日本"</string>
     <string name="nome_pais">" 日本"</string>

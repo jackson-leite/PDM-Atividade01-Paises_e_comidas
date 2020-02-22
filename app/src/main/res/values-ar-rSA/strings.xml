@@ -4,6 +4,6 @@
     <string name="paises">الدول</string>
     <string name="nome_pais">"المملكة العربية السعودية "</string>
     <string name="descricao_nome_pais">"المملكة العربية السعودية "</string>
-    <string name="descricao_prato_feijoada">الفلافل</string>
+    <string name="descricao_prato">الفلافل</string>
     <string name="nome_comida">الفلافل</string>
 </resources>

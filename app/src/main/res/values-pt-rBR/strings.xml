@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Atividade 01</string>
+    <string name="paises">Países</string>
+    <string name="descricao_prato">Feijoada</string>
+    <string name="nome_pais">Brasil</string>
+    <string name="nome_comida">Feijoada</string>
+    <string name="descricao_nome_pais">Brasil</string>
+</resources>
